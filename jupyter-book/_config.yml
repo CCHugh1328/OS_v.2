@@ -1,0 +1,9 @@
+# Book settings
+title                       : "South Penghu Marine National Park, Taiwan"
+author                      : Hugh
+copyright                   : "2024"
+logo                        : 
+
+# Execution settings
+execute:
+  execute_notebooks         : off  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
